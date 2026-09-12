@@ -333,7 +333,7 @@ im Bearbeitungsmodus zu löschen.</translation>
     <message>
         <location filename="../mainwindow.ui" line="72"/>
         <source>&amp;Recent Files</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Zuletzt verwendet</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="126"/>
@@ -615,7 +615,7 @@ im Bearbeitungsmodus zu löschen.</translation>
     <message>
         <location filename="../mainwindow.ui" line="590"/>
         <source>Ctrl+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Strg+U</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="598"/>
@@ -748,27 +748,27 @@ im Bearbeitungsmodus zu löschen.</translation>
     <message>
         <location filename="../mainwindow.ui" line="776"/>
         <source>By &amp;Modification Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach &amp;Änderungszeit</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="779"/>
         <source>By Modification Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Änderungszeit</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="787"/>
         <source>By C&amp;reation Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach E&amp;rstellungszeit</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="790"/>
         <source>By Creation Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Erstellungszeit</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="798"/>
         <source>By File &amp;Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Nach Datei&amp;grösse</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="801"/>
